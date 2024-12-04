@@ -1,7 +1,5 @@
 # corticospinal-pain-signature
 
-This repository contains the code and data accompanying the paper ‘A Corticospinal Signature for Interindividual Pain Sensitivity’. It includes all scripts and resources necessary to reproduce the analyses and results presented in the study.
-
 This repository contains the code accompanying the paper **"A Corticospinal Signature for Interindividual Pain Sensitivity"**. It includes all the Jupyter notebooks used for analyses and figure generation in the study.
 
 ---
@@ -9,7 +7,6 @@ This repository contains the code accompanying the paper **"A Corticospinal Sign
 ## Contents
 
 - [Requirements](#requirements)
-- [Usage](#usage)
 - [Notebooks](#notebooks)
   - [CSps_F2.ipynb](#CSps_F2.ipynb)
   - [CSps_F3.ipynb](#CSps_F3.ipynb)
@@ -39,7 +36,7 @@ Contents:
 •	Visualization of results.
 ```
 
-**CSps-F3.ipynb**
+**CSps_F3.ipynb**
 
 Description: Conducts confounder analysis and pain specificity analysis using Dataset 4 (task-based fMRI).
 
@@ -51,7 +48,7 @@ Contents:
 •	Result interpretation and plotting.
 ```
 
-**CSps-F4.ipynb**
+**CSps_F4.ipynb**
 
 Description: Performs corticospinal feature importance analysis.
 
